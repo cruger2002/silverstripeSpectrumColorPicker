@@ -7,7 +7,7 @@ This module adds a colorpicker field. It's based on - <http://bgrins.github.io/s
 
 ## Installation Instructions
 
- * Extract all files into the 'spectrumColorPicker' folder under your Silverstripe root, then ?flush=all
+ * Extract all files into the 'spectrumColorPicker' folder under your Silverstripe root, then http://your_site/?flush=all
 
 ## Usage
 
